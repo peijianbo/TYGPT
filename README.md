@@ -12,6 +12,8 @@
 
 ## 安装方法
 将TYGPT项目拷贝到Stable Diffusion WebUi软件根目录下的extensions文件夹内,重启WebUi服务即可
+![image](https://github.com/peijianbo/TYGPT_To_Stable_Diffusion_webUI/assets/42259444/25f7ab23-8ff0-44d2-8c29-d5c89ab9d3af)
+
 
 ## 使用方法
 需要先登录，用户名和密码同网页版TYGPT(https://tygpt.tuyoo.com/)
